@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @yashahuja31
-- 👀 I’m interested in coding, learning, and specializing in everything I do
-- 🌱 I’m currently learning b.tech in computer science and engineering
-- 💞️ I’m looking to collaborate on interesting projects 
-- 📫 How to reach me via email or discord
+👋 Hi, I'm Yash Ahuja (@yashahuja31)
+👀 Interests
+I am passionate about coding, continuous learning, and striving for excellence in all my endeavors.
 
-<!---
-yashahuja31/yashahuja31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 Currently Learning
+I am pursuing a B.Tech in Computer Science and Engineering, constantly expanding my knowledge and skills.
+
+💞️ Collaboration
+I am eager to collaborate on exciting and innovative projects. Let's work together to create something amazing!
+
+📫 Contact Me
+Feel free to reach out to me via:
+
+Email: darkabsoul0@gmail.com
+Discord: ruined.soul
